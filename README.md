@@ -34,4 +34,4 @@ class CreateMan extends Auenteus {
 } 
 
 let Auenteus = new CreateMan()
-Auenteus.createDay();
+auenteus.createDay();
