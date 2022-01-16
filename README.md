@@ -32,7 +32,7 @@
           this.createDay()
       }
   
-    }
+    } 
 
     let Auenteus = new CreateMan()
     Auenteus.createDay();
