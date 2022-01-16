@@ -30,7 +30,7 @@ class CreateMan extends Auenteus {
     
     this.createDay()
   }
-  
+   
 }
 
 let Auenteus = new CreateMan()
