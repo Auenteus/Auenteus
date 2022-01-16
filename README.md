@@ -1,20 +1,22 @@
 class Auenteus 
-{ constructor(...options) {
+
+
+   { constructor(...options) {
     
-    this.height = "1.77"
+    -this.height = "1.77"
     
-    this.weight = "66"
+    -this.weight = "66"
     
-    this.type = "human"
+    -this.type = "human"
     
-    this.job = "student"
+    -this.job = "student"
     
-    this.sex = "male"
+    -this.sex = "male"
     
   }
 }
 
-  private _coding() {
-  void "coding... ❤️"
-  }
+   private _coding() {
+   void "coding... ❤️"
+   }
   
