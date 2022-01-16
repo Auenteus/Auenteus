@@ -28,7 +28,7 @@ class CreateMan extends Auenteus {
     this._coding()
     await this._sleep(18000000)
     
-    this.createDay()
+
   }
        
 } 
