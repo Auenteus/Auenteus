@@ -8,30 +8,7 @@ class Auenteus {
   }
 }
 
-class CreateMan extends Auenteus {
-  constructor(...options) {
-    super(options);
-  }
-  
-  private _eating() {
-    void "eating 🍔 🍟 🥤"
-  }
-  
   private _coding() {
-    void "coding... ❤️"
+  void "coding... ❤️"
   }
   
-  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
-  
-  async createDay() {
-    this._eating()
-    this._coding()
-    await this._sleep(18000000)
-    
-
-  }
-       
-} 
-
-let Auenteus = new CreateMan()
-auenteus.createDay();
